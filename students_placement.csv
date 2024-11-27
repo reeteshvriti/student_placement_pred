@@ -1,0 +1,301 @@
+cgpa,communication,confidence,status
+5.97,1,9,not placed
+6.83,6,8,not placed
+6.6,4,2,not placed
+5.54,6,7,not placed
+6.84,1,10,not placed
+7.15,10,3,not placed
+7.4,9,7,placed
+7.97,8,10,placed
+6.64,7,10,not placed
+7.82,3,7,not placed
+7.64,2,3,not placed
+5.64,8,10,not placed
+6.83,8,6,not placed
+7.74,8,2,not placed
+8.03,9,1,not placed
+7.88,2,1,not placed
+6.6,1,4,not placed
+8.83,9,1,not placed
+7.05,8,3,not placed
+7.37,9,1,not placed
+5.78,3,3,not placed
+5.41,9,3,not placed
+7.36,10,7,placed
+7.76,8,8,placed
+5.51,6,2,not placed
+7.19,9,8,placed
+7.73,1,10,not placed
+6.66,1,8,not placed
+6.74,3,10,not placed
+7.21,7,9,placed
+5.99,3,3,not placed
+6.27,3,6,not placed
+6.57,6,7,not placed
+7.4,7,10,placed
+7.55,10,5,not placed
+5.5,6,3,not placed
+7.93,6,4,not placed
+6.89,2,3,not placed
+6.79,5,4,not placed
+6.57,10,7,not placed
+6.76,6,5,not placed
+6.05,9,1,not placed
+6.01,9,2,not placed
+6.34,4,8,not placed
+6.04,8,5,not placed
+6.84,1,7,not placed
+7.32,1,3,not placed
+8.09,3,1,not placed
+7.6,2,7,not placed
+7.65,6,9,not placed
+7.05,6,2,not placed
+6.75,9,1,not placed
+6.56,4,7,not placed
+8.43,6,8,not placed
+7.19,8,10,placed
+8.48,4,1,not placed
+5.31,3,5,not placed
+6.46,10,3,not placed
+7.7,2,5,not placed
+6.45,5,9,not placed
+6.85,1,3,not placed
+6.24,1,10,not placed
+7.1,5,2,not placed
+7.24,9,7,placed
+7.5,3,4,not placed
+8.41,4,2,not placed
+6.42,2,9,not placed
+5.56,5,7,not placed
+5.23,3,4,not placed
+8.12,2,2,not placed
+6.02,7,3,not placed
+7.05,2,2,not placed
+6.15,7,10,not placed
+5.52,5,3,not placed
+7.49,8,9,placed
+5.76,5,3,not placed
+6.99,2,2,not placed
+7.11,10,3,not placed
+6.83,10,1,not placed
+8.41,8,6,not placed
+5.29,5,5,not placed
+5.61,10,5,not placed
+6.06,10,3,not placed
+6.11,2,4,not placed
+7.01,8,2,not placed
+6.86,9,9,not placed
+7.31,5,8,not placed
+5.33,4,3,not placed
+5.91,5,9,not placed
+5.83,7,2,not placed
+7.63,5,5,not placed
+4.94,10,8,not placed
+5.81,7,1,not placed
+7.06,6,8,not placed
+7.08,10,9,placed
+7.43,2,9,not placed
+5.25,5,8,not placed
+7.32,4,7,not placed
+7.27,3,8,not placed
+8.11,7,6,not placed
+8.35,5,1,not placed
+5.83,1,6,not placed
+8.21,6,1,not placed
+5.61,4,1,not placed
+8.08,9,9,placed
+7.35,7,6,not placed
+5.61,8,1,not placed
+6.89,10,7,not placed
+7.45,5,6,not placed
+6.23,9,8,not placed
+7.4,8,9,placed
+5.67,9,2,not placed
+6.75,2,3,not placed
+8.25,6,4,not placed
+5.89,3,10,not placed
+7.3,9,3,not placed
+6.61,10,2,not placed
+7.41,10,10,placed
+4.8,1,3,not placed
+5.54,5,6,not placed
+7.93,7,8,placed
+5.54,5,9,not placed
+7.71,5,10,not placed
+6.26,9,3,not placed
+7.55,5,2,not placed
+6.27,5,2,not placed
+6.73,6,2,not placed
+6.65,9,2,not placed
+8,8,5,not placed
+5.8,4,6,not placed
+6.69,10,9,not placed
+7.08,6,4,not placed
+6.99,4,8,not placed
+8.21,10,5,not placed
+6.58,3,9,not placed
+6.54,3,2,not placed
+7.54,5,4,not placed
+9.07,1,9,not placed
+8.8,10,3,not placed
+7.54,4,1,not placed
+6.34,5,1,not placed
+5.05,4,5,not placed
+6.01,8,2,not placed
+7,7,9,not placed
+7.01,5,9,not placed
+6.13,3,1,not placed
+6.84,7,3,not placed
+8.11,2,5,not placed
+7.54,5,4,not placed
+5.86,2,1,not placed
+5.67,5,7,not placed
+5.7,2,5,not placed
+8.12,6,4,not placed
+6.27,1,3,not placed
+5.56,5,5,not placed
+6.68,5,6,not placed
+5.71,1,7,not placed
+5.19,1,9,not placed
+4.9,1,10,not placed
+5.84,2,4,not placed
+5.65,9,8,not placed
+6.11,4,10,not placed
+6,8,6,not placed
+5.52,10,8,not placed
+6.02,6,7,not placed
+7.52,9,6,not placed
+8.17,2,8,not placed
+5.13,5,10,not placed
+8.12,5,10,not placed
+6.34,5,5,not placed
+5.76,7,3,not placed
+8.71,7,6,not placed
+6.62,3,2,not placed
+7.22,5,10,not placed
+7.81,8,1,not placed
+6.4,4,10,not placed
+4.6,2,5,not placed
+6.66,10,9,not placed
+5.77,1,9,not placed
+5.67,10,3,not placed
+8.04,2,7,not placed
+6.17,6,8,not placed
+7.66,10,8,placed
+6.69,10,2,not placed
+8.49,8,9,placed
+6.88,5,6,not placed
+7.52,10,6,not placed
+8.54,1,2,not placed
+6.97,6,6,not placed
+6.04,8,10,not placed
+7.21,10,9,placed
+5.34,10,1,not placed
+5.6,10,7,not placed
+8.37,6,3,not placed
+7.04,10,10,placed
+7.97,9,9,placed
+6.76,8,2,not placed
+6.32,7,1,not placed
+6.64,7,4,not placed
+5.67,4,10,not placed
+8.37,5,10,not placed
+7.83,2,7,not placed
+4.97,6,2,not placed
+8.47,1,7,not placed
+6.55,1,2,not placed
+6.7,9,9,not placed
+5.97,8,4,not placed
+7.65,1,10,not placed
+6.44,9,9,not placed
+7.24,4,7,not placed
+7.12,8,2,not placed
+5.64,3,5,not placed
+6.89,5,9,not placed
+6.44,3,3,not placed
+5.8,2,10,not placed
+7,3,1,not placed
+6.47,10,1,not placed
+7.21,10,4,not placed
+6.54,3,5,not placed
+7.59,9,2,not placed
+7.23,8,9,placed
+8.25,5,7,not placed
+7.38,6,7,not placed
+5.62,4,9,not placed
+5.77,2,6,not placed
+7.42,10,7,placed
+6.49,5,2,not placed
+7.07,6,4,not placed
+8.07,3,2,not placed
+9.3,10,7,placed
+9.05,2,4,not placed
+6.02,4,1,not placed
+5.85,5,8,not placed
+6.97,7,10,not placed
+7.86,8,7,placed
+5.12,10,8,not placed
+5.86,5,7,not placed
+7.12,2,3,not placed
+8.29,1,8,not placed
+6.92,9,2,not placed
+7.49,6,7,not placed
+8.56,7,8,placed
+7.24,5,1,not placed
+5.76,3,8,not placed
+6.49,9,3,not placed
+8.52,6,2,not placed
+6.14,4,1,not placed
+6.75,4,7,not placed
+5.94,4,2,not placed
+6.53,8,2,not placed
+5.49,8,5,not placed
+7.62,10,4,not placed
+6.88,7,9,not placed
+8.84,4,2,not placed
+7.34,6,9,not placed
+6.34,2,2,not placed
+7.65,2,9,not placed
+5.54,1,2,not placed
+5.76,4,10,not placed
+5.13,9,8,not placed
+7.48,9,1,not placed
+7.51,10,7,placed
+6.79,9,1,not placed
+6.8,1,10,not placed
+7.12,7,6,not placed
+6.34,9,5,not placed
+7.26,2,9,not placed
+6.91,9,7,not placed
+7.42,1,4,not placed
+7.88,8,2,not placed
+5.51,8,5,not placed
+7.03,5,6,not placed
+5.94,10,5,not placed
+8.13,1,6,not placed
+5.49,10,10,not placed
+6.29,6,9,not placed
+6.89,4,9,not placed
+5.19,4,3,not placed
+5.91,3,6,not placed
+7.14,7,3,not placed
+6.85,2,1,not placed
+7.6,8,8,placed
+8.26,2,8,not placed
+8.35,9,9,placed
+7.06,10,7,placed
+8.7,7,1,not placed
+6.98,10,3,not placed
+5.28,8,10,not placed
+7.15,3,7,not placed
+5.83,1,4,not placed
+5.84,6,4,not placed
+7.83,9,1,not placed
+6.8,9,6,not placed
+6.86,9,10,not placed
+7.18,9,7,placed
+6.44,6,4,not placed
+6.09,10,2,not placed
+7.68,8,10,placed
+7,6,2,not placed
+4.79,2,9,not placed
